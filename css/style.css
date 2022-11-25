@@ -1,0 +1,166 @@
+.navbar .logo img{
+  margin-left: 250px;
+  height: 110px;
+  width: 110px;
+}
+.navbar .collapse{
+  margin-left: 100px;
+}
+
+.navbar .nav-item{
+  padding: 20px;
+}
+
+
+
+  
+  
+
+
+header .navbar{
+background-color: rgba(0, 0, 0, 0.763);
+backdrop-filter: saturate(180%) blur(10px);
+position: fixed;
+top: 0;
+left: 0;
+right: 0;
+z-index: 1030;
+
+  
+  
+
+
+
+}
+
+
+
+.navbar .form-inline{
+  
+ 
+  
+  
+  
+}
+
+.navbar .form-inline ::placeholder{
+  color: rgba(72, 71, 71, 0.766);
+}
+
+
+
+
+
+.navbar .nav-item img{
+  width: 25px;
+  height: 25px;
+}
+
+.navbar .nav-item .logosam{
+  width: 35px;
+}
+
+
+.navbar .nav-it .user {
+  float: left;
+  width: 25px;
+  height: 25px;
+  margin-left: 320%;
+
+  
+}
+
+.navbar .nav-it .basket{
+  float: right;
+  width: 25px;
+  height: 25px;
+ 
+}
+
+
+body{
+  background-color: rgb(20, 19, 19)!important;
+}
+
+main .container{
+  color: rgb(34, 16, 16);
+}
+
+.card {
+  box-shadow: 0 1px 3px rgb(0 0 0 / 12%), 0 1px 2px rgb(0 0 0 / 24%);;
+  width: 300px;
+  margin: auto;
+  text-align: center;
+  font-family: arial;
+  margin-top: 40px;
+  background-color: #221f1f;
+  border-radius: 10px;
+  transition: all 0.5s;
+  
+}
+
+.price {
+  color: grey;
+  font-size: 22px;
+}
+
+.card button {
+  border: none;
+  outline: 0;
+  padding: 8px;
+  color: rgb(255, 248, 248);
+  background-color: rgba(0, 64, 255, 0.838);
+  
+  text-align: center;
+  cursor: pointer;
+  width: 20%;
+  font-size: 18px;
+  border-radius: 980px;
+}
+
+
+
+.card button:hover {
+  opacity: 0.7;
+}
+
+.row .card{
+  background-color: white;
+  box-shadow: 0 1px 3px rgba(145, 145, 145, 0.316), 0 1px 2px rgba(0, 0, 0, 0.749);;
+
+  
+}
+
+.row .card:hover{
+ background-color: #fffafa84;
+}
+
+
+.search-hover {
+  background-color:whitesmoke ;
+  border: 1px solid rgba(72, 71, 71, 0.766);
+  outline: none;
+  background-size: 22px;
+  background-position: 13px;
+  border-radius: 10px;
+  width: 50px;
+  height: 50px;
+  padding: 25px;
+  transition: all 0.5s;
+  background-image: url("https://img.icons8.com/plumpy/512/search.png");
+  background-repeat: no-repeat;
+ 
+  
+  
+  
+}
+.search-hover:hover {
+  width: 200px;
+  padding-left: 50px;
+  cursor: auto;
+  
+}
+
+
+
+
